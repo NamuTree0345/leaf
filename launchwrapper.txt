@@ -1,1 +1,1 @@
-https://github.com/NamuTree0345/LegacyLauncher/releases/download/1.12/launchwrapper-1.12-all.jar
+https://github.com/NamuTree0345/LegacyLauncher/releases/download/1.12-1/launchwrapper-1.12-all.jar
